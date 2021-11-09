@@ -1,0 +1,55 @@
+<mokesciuMoketojai>
+    <imones>
+        <imone pavadinimas="Tesla">
+            <vadovas>Elon Musk</vadovas>
+            <centrinisStabas salis="JAV">
+                <adresas>
+                    <miestas>Niujorkas</miestas>
+                    <gatve>Sun</gatve>
+                    <namas>10</namas>
+                    <pastoKodas>123</pastoKodas>
+                </adresas>
+            </centrinisStabas>
+            <darbuotojuSkaicius dirbaIsNamu="true">70757</darbuotojuSkaicius>
+            <akcijosKaina valiuta="USD" salis="USA">740.84</akcijosKaina>
+            <susikurimoData>2003-07-01</susikurimoData>
+        </imone>
+        <imone pavadinimas="Starlink">
+            <vadovas>Elon Musk</vadovas>
+            <centrinisStabas salis="JAV">
+                <adresas>
+                    <miestas>Niujorkas</miestas>
+                    <gatve>Liberty</gatve>
+                    <namas>12</namas>
+                    <pastoKodas>123</pastoKodas>
+                </adresas>
+            </centrinisStabas>
+            <darbuotojuSkaicius dirbaIsNamu="true">182268</darbuotojuSkaicius>
+            <akcijosKaina valiuta="USD" salis="CA">295.50</akcijosKaina>
+            <susikurimoData>1975-04-04</susikurimoData>
+        </imone>
+        <imone pavadinimas="Vinted">
+            <vadovas>Thomas Plantenga</vadovas>
+            <centrinisStabas salis="LT">
+                <adresas>
+                    <miestas>Vilnius</miestas>
+                    <gatve>Subaciaus</gatve>
+                    <namas>15</namas>
+                    <pastoKodas>123</pastoKodas>
+                </adresas>
+            </centrinisStabas>
+            <darbuotojuSkaicius dirbaIsNamu="false">773</darbuotojuSkaicius>
+            <akcijosKaina valiuta="LT" salis="LT">123.12</akcijosKaina>
+            <susikurimoData>2012-11-26</susikurimoData>
+        </imone>
+    </imones>
+    <nePelnoSiekianciosOrgs>
+        <nePelnoSiekianciosOrg>
+            <vadovas>Boyan Slat</vadovas>
+            <pavadinimas>The Ocean Cleanup</pavadinimas>
+            <centrinisStabas salis="FR">Paris</centrinisStabas>
+            <darbuotojuSkaicius>800</darbuotojuSkaicius>
+            <susikurimoData>2013-11-20</susikurimoData>
+        </nePelnoSiekianciosOrg>
+    </nePelnoSiekianciosOrgs>
+</mokesciuMoketojai>
